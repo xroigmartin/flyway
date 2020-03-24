@@ -1,0 +1,8 @@
+.settings/
+target/
+
+src/main/java
+src/test/
+
+.classpath
+.project
